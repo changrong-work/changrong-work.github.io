@@ -17,6 +17,7 @@ This visualization shows the number of UFO sightings over time. I used a line ch
 
 <iframe src="chart2.html" width="700" height="500" frameborder="0"></iframe>
 
+
 This visualization shows UFO sightings across the United States using geographic coordinates. Each point represents a reported sighting, plotted using latitude and longitude. I used color encoding to represent different UFO shapes, allowing viewers to distinguish between categories.
 
 To enhance the visualization, I added a dropdown menu that allows users to select a specific UFO shape. When a shape is selected, the corresponding points are highlighted while other points are faded using opacity. This interaction helps users focus on a specific category and makes spatial patterns easier to interpret.
