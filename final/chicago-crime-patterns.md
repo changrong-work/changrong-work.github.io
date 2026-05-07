@@ -36,7 +36,7 @@ Overall, this project shows that public crime data becomes more useful when read
 
 - Main data: [City of Chicago Data Portal — Crimes: 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
 - Boundary data: [City of Chicago Data Portal — Boundaries: Community Areas](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
-- Analysis notebook: [Part 3 Analysis Notebook]([https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/part3_analysis_notebook.ipynb](https://github.com/changrong-work/changrong-work.github.io/blob/main/final/final.ipynb)
+- Analysis notebook: [Part 3 Analysis Notebook](https://github.com/changrong-work/changrong-work.github.io/blob/main/final/final.ipynb)
 - Central visualization and contextual visualizations were created by the author in Python using Pandas and Altair. The notebook above contains the code used to create all three embedded HTML visualizations.
 
 ## Notes and limitations
