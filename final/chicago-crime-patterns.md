@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: "Chicago After Dark: Where and When Reported Crime Clusters Across the City"
-permalink: /projects/chicago-crime-patterns/
+
 ---
 
 # Chicago After Dark: Where and When Reported Crime Clusters Across the City
